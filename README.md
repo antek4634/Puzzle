@@ -1,4 +1,4 @@
-# Puzzle
+# Puzzle - Projekt Ukończony
 Puzzle w pythonie na zasadzie rekurencji
 
 By wykonać kod potrzeba użyć parsowania z wymaganymi argumentami -p i -plansza
